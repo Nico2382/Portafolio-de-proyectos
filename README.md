@@ -9,6 +9,7 @@ He desarrollado una sólida experiencia en la recopilación, transformación, an
 Durante mis estudios, perfeccioné mi capacidad para trabajar con datos complejos y desarrollé habilidades para detectar patrones y tendencias. También adquirí conocimientos técnicos en el mundo del machine learning para desarrollar modelos predictivos.
 
 Tengo experiencia en la creación de dashboard para la visualización de los datos, así como también en la creación y actualización de KPI para medir la evaluación de los proyectos.
+
 En mi tiempo libre disfruto de explorar nuevas herramientas y técnicas para el análisis de datos y los modelos predictivos. Siempre busco oportunidades para ampliar mis conocimientos y habilidades en el fascinante mundo de los datos. 
 
 ## Tabla de contenidos
@@ -17,9 +18,9 @@ En mi tiempo libre disfruto de explorar nuevas herramientas y técnicas para el 
   - [R Studio](#r-studio)
     - [Clustering](#clustering)
     - [Redes Neuronales](#redes-neuronales)
-  - [Excel / Google Sheets](#excel--google-sheets)
+  - [Python](#python)
   - [Power BI](#power-bi)
-- [Education](#education)
+- [Educación](#educación)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
@@ -53,24 +54,20 @@ Nota: el proyecto se realizó enteramente en shiny.
 
 **Tecnologia:** R Studio, Shiny.
 
-**Resultados:** Utilizando la técnica de clusterización mediante el método k-means llegamos a la conclusión que podemos agrupar los 50 estados en dos clusters .
+**Resultados:** Utilizando algoritmos de redes neuronales podemos predecir si un individue con ciertas caracteristicas puede o no padecer enfermedad cardiaca.
 
-### Excel / Google Sheets
-
-Proyectos relacionados con Excel y Hojas de cálculo de Google.
+### Python
 
 ### Power BI
 
-Proyectos relacionados con Power BI.
+## Educación
 
-## Education
+Diplomatura en Ciencia de Datos con Paython y R -Instituto Data Science
 
-Información sobre tu educación.
+Ingeniería Química -Universidad Tecnológica Nacional
 
-## Certificates
-
-Información sobre tus certificados.
 
 ## Contact
 
-Información de contacto.
+mail:encastillo18@yahoo.com.ar
+
