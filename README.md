@@ -30,7 +30,7 @@ En esta sección enumeraré los proyectos que fui realizando y las herramientas 
 ### R Studio
 
 #### Clustering
-**Codigo:** [Clustering en R](https://github.com/Nico2382/Clustering_en_R)
+**Codigo:** [Clustering en R](https://github.com/Nico2382/Proyectos-Data-Science/tree/main/agrupamientosapp)
 
 **Objetivo:** Agrupar los 50 estados de Estados Unidos según la tasa de asesinatos, asaltos y violaciones.
 
@@ -44,7 +44,7 @@ Nota: el proyecto se realizó enteramente en shiny.
 **Resultados:** Utilizando la técnica de clusterización mediante el método k-means llegamos a la conclusión que podemos agrupar los 50 estados en dos clusters .
 
 #### Redes Neuronales
-**Codigo:** [Redes Neuronales en R](https://github.com/Nico2382/Redes-neuronales-en-R)
+**Codigo:** [Redes Neuronales en R](https://github.com/Nico2382/Proyectos-Data-Science/tree/main/tp_redes_neuronales)
 
 **Objetivo:** Mediante algoritmos de redes neuronales determinar si un individuo puede padecer una enfermedad cardiaca
 
