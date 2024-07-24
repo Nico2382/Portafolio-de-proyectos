@@ -16,6 +16,7 @@ En mi tiempo libre disfruto de explorar nuevas herramientas y técnicas para el 
 - [Portfolio de Proyectos](#portfolio-de-proyectos)
   - [R Studio](#r-studio)
     - [Clustering](#clustering)
+    - [Redes Neuronales](#redes-neuronales)
   - [Excel / Google Sheets](#excel--google-sheets)
   - [Power BI](#power-bi)
 - [Education](#education)
@@ -39,7 +40,20 @@ Nota: el proyecto se realizó enteramente en shiny.
 
 **Tecnologia:** R Studio, Shiny.
 
-**Resultados:** Utilizando la técnica de clusterización mediante el metodo k-means llegamos a la conclusión que podemos agrupar los 50 estados en dos clusters .
+**Resultados:** Utilizando la técnica de clusterización mediante el método k-means llegamos a la conclusión que podemos agrupar los 50 estados en dos clusters .
+
+#### Redes Neuronales
+**Codigo:** [Redes Neuronales en R](https://github.com/Nico2382/Redes-neuronales-en-R)
+
+**Objetivo:** Mediante algoritmos de redes neuronales determinar si un individuo puede padecer una enfermedad cardiaca
+
+**Descripción:** Para este proyecto se utilizó el dataset de enfermedades cardiacas de la clinica Cleveland . Se analizaron los datos que contine el data frame, viendo estructura, datos nulos, y valores estadísticos. Luego se realizó una matriz de correlacion y se graficaron las variables. Se entrenó el modelo de redes con diferentes parametros y se eligió el mas representarivo. Luego se realizo una aplicación interactiva donde el usuario puede responder un cuestionario y la aplicación muestra si el individuo presenta o no una enfermedad cardiaca. 
+
+**Herramientas:** limpieza de datos, Análisis de datos, matriz de correlacion, modelado de algoritmo, visualizacion interactiva, escenario hipotético de la aplicación del modelo.
+
+**Tecnologia:** R Studio, Shiny.
+
+**Resultados:** Utilizando la técnica de clusterización mediante el método k-means llegamos a la conclusión que podemos agrupar los 50 estados en dos clusters .
 
 ### Excel / Google Sheets
 
