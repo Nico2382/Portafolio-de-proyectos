@@ -14,7 +14,7 @@ En mi tiempo libre disfruto de explorar nuevas herramientas y técnicas para el 
 ## Tabla de contenidos
 - [Acerca de mi](#acerca-de-mi)
 - [Portfolio de Proyectos](#portfolio-de-proyectos)
-  - [R](#r)
+  - [R Studio](#r-studio)
     - [Clustering](#clustering)
   - [Excel / Google Sheets](#excel--google-sheets)
   - [Power BI](#power-bi)
@@ -25,20 +25,21 @@ En mi tiempo libre disfruto de explorar nuevas herramientas y técnicas para el 
 ## Portfolio de Proyectos
 En esta sección enumeraré los proyectos que fui realizando y las herramientas y tecnologías aplicadas en cada caso
 
-### R
+### R Studio
 
 #### Clustering
 **Codigo:** [Clustering en R](https://github.com/Nico2382/Clustering_en_R)
 
-**Objetivo:** To determine what factors contribute the most to a movie's success.
+**Objetivo:** Agrupar los 50 estados de Estados Unidos según la tasa de asesinatos, asaltos y violaciones.
 
-**Descripción:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implementing Pearson’s correlation statistical analysis.
+**Descripción:** Para este proyecto se utilizó la base de datos USArrest. Se analizaron los datos que contine el data frame, viendo estructura, datos nulos, y valores estadísticos. Luego se realizó una matriz de correlacion y se aplicó el modelo de clusterización. Se graficó el dendograma obtenido y se realizo una simulación del costo monetario que deberia tener cada estado si quiere mejorar sus políticas.
+Nota: el proyecto se realizó enteramente en shiny.
 
-**Herramientas:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Herramientas:** limpieza de datos, Análisis de datos, matriz de correlacion, modelado de algoritmo, visualizacion interactiva, escenario hipotético de la aplicación del modelo.
 
-**Tecnologia:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Tecnologia:** R Studio, Shiny.
 
-**Resultados:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Resultados:** Utilizando la técnica de clusterización mediante el metodo k-means llegamos a la conclusión que podemos agrupar los 50 estados en dos clusters .
 
 ### Excel / Google Sheets
 
